@@ -1,5 +1,5 @@
 ---
-name: StoreKit Bug report
+name: StoreKit Bug Report
 about: Create a report to help us improve StoreKit plugin
 title: ''
 labels: bug, storekit
